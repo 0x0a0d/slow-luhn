@@ -1,0 +1,25 @@
+{
+  "name": "slow-luhn",
+  "version": "1.0.0",
+  "description": "It's Luhn algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "luhn",
+    "credit card",
+    "validator",
+    "luhn generator"
+  ],
+  "author": "0x0a0d",
+  "repository": {
+    "url": "https://github.com/0x0a0d/slow-luhn",
+    "type": "git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
